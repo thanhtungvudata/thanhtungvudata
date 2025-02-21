@@ -17,19 +17,60 @@
 ### 🚀 **Tech Stack**
 
 #### 🟢 **Excellent:**
-- 🧠 **Classical ML/Predictive Modelling:** Linear/Logistic Regression, XGBoost, LightGBM, KNN, SVM  
-- 🤖 **Deep Learning:** DNN, CNN, Federated Learning  
-- 📝 **Optimization:** Constrained mixed-integer, nonconvex, and stochastic problems  
-- 🐍 **Programming:** Python (Pandas, Numpy, Scikit-Learn, Matplotlib), Matlab, SQL  
-- ⚙️ **Optimization Tools:** CVX, Mosek  
+
+- 🧠 **Classical ML/Predictive Modelling:**  
+  <img src="https://img.shields.io/badge/XGBoost-FF9900?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-00BFFF?style=for-the-badge&logo=lightgbm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SVM-0071C5?style=for-the-badge&logo=algolia&logoColor=white" />
+
+- 🤖 **Deep Learning:**  
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Federated_Learning-0080FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+- 📝 **Optimization:**  
+  <img src="https://img.shields.io/badge/Optimization-6A5ACD?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Constrained_Problems-4682B4?style=for-the-badge&logo=matrix&logoColor=white" />
+
+- 🐍 **Programming:**  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-FF5722?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matlab-EF8B00?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+- ⚙️ **Optimization Tools:**  
+  <img src="https://img.shields.io/badge/CVX-FF4500?style=for-the-badge&logo=matrix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mosek-2E8B57?style=for-the-badge&logo=mathworks&logoColor=white" />
+
+---
 
 #### 🟡 **Familiar:**
-- 🤗 **Large Language Models (LLM):** Generative AI, Reinforcement Learning  
+
+- 🤗 **Large Language Models (LLM):**  
+  <img src="https://img.shields.io/badge/Generative_AI-FF69B4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-FF6347?style=for-the-badge&logo=deepmind&logoColor=white" />
+
+---
 
 #### ⚙️ **ML & Business Tools:**
-- 🔧 **ML Frameworks:** Keras, PyTorch, Gymnasium, PySpark  
-- 📊 **Business Analytics:** Power BI  
-- 🚀 **ML in Production:** Git, DVC, MLFlow, NannyML  
+
+- 🔧 **ML Frameworks:**  
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gymnasium-32CD32?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+
+- 📊 **Business Analytics:**  
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
+
+- 🚀 **ML in Production:**  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NannyML-00CED1?style=for-the-badge&logo=monitoring&logoColor=white" />
+
 
 ---
 
