@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Thanh Tung Vu</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer+%7C+6G+Researcher;Passionate+about+Wireless+Networks+%26+Data+Science;Always+learning+and+exploring+new+technologies" alt="Typing SVG" />
 </p>
