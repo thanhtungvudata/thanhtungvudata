@@ -32,7 +32,7 @@
 ---
 
 ### 🏆 **Achievements**
-- 🏅 **Strong Track Record:** >800 citations, h‐index of 15 ([List of papers]([#](https://scholar.google.com/citations?hl=en&user=Yr2ixYEAAAAJ&view_op=list_works&sortby=pubdate))), 20 journal articles in top international journals, 20 conference papers (2 invited), 1 Elsevier book chapter, and 2 patents with Ericsson (a global telecom leader).  
+- 🏅 **Strong Track Record:** >800 citations, h‐index of 15 ([List of papers](https://scholar.google.com/citations?hl=en&user=Yr2ixYEAAAAJ&view_op=list_works&sortby=pubdate)), 20 journal articles in top international journals, 20 conference papers (2 invited), 1 Elsevier book chapter, and 2 patents with Ericsson (a global telecom leader).  
 - 🎤 **Invited Talk:** *"Interference Management for Dynamic Full-Duplex Cell-Free Networks"* at the Australian Communications Theory Workshop (AusCTW'24), Melbourne, Australia.  
 - 🌟 **Exemplary Reviewer:** IEEE Transactions on Communications (2021), IEEE Wireless Communications Letters (2020, 2021).  
 - 🥇 **Awards:**  
