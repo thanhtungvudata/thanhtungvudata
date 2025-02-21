@@ -6,11 +6,11 @@
 ---
 
 ### 🌟 **About Me**
-- 🎓 Pursuing Bachelor of Data Science & Decisions at UNSW
-- 🔬 Researching ultra-reliable low-latency wireless networks and 6G
-- 💻 Passionate about machine learning, data science, and risk modeling
-- 🌱 Currently building a **Seasonal Sales Predictor** for eBay sellers
-- 💬 Ask me about **PySpark, Ridge Regression, and AWS SageMaker**
+- 🎓 PhD in Wireless Communications, specializing in Applied Optimization and ML
+- 🔬 Researching ultra-reliable low-latency wide-area networks and 6G
+- 💻 Passionate about machine learning, data science, and solving real-world problems
+- 🌱 Currently building some exciting side data science projects (Check my repos)
+- 💬 Ask me about **Optimization, Predictive Modelling, and ML Engineering**
 
 ---
 
