@@ -16,77 +16,20 @@
 
 ### 🚀 **Tech Stack**
 
----
-
 #### 🟢 **Excellent:**
-
-**🧠 Classical ML/Predictive Modelling:**
-<p align="left">
-  <img src="https://img.shields.io/badge/XGBoost-FF9900?style=flat&logo=xgboost&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/LightGBM-00BFFF?style=flat&logo=lightgbm&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/SVM-0071C5?style=flat&logo=algolia&logoColor=white" height="40"/>
-</p>
-
-**🤖 Deep Learning:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" height="40"/>
-</p>
-
-**📝 Optimization:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/CVX-FF4500?style=flat&logo=mathworks&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Mosek-2E8B57?style=flat&logo=matrix&logoColor=white" height="40"/>
-</p>
-
-**🐍 Programming:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Matplotlib-FF5722?style=flat&logo=plotly&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Matlab-EF8B00?style=flat&logo=mathworks&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="40"/>
-</p>
-
----
+- 🧠 **Classical ML/Predictive Modelling:** Linear/Logistic Regression, XGBoost, LightGBM, KNN, SVM  
+- 🤖 **Deep Learning:** DNN, CNN, Federated Learning  
+- 📝 **Optimization:** Constrained mixed-integer, nonconvex, and stochastic problems  
+- 🐍 **Programming:** Python (Pandas, Numpy, Scikit-Learn, Matplotlib), Matlab, SQL  
+- ⚙️ **Optimization Tools:** CVX, Mosek  
 
 #### 🟡 **Familiar:**
-
-**🤗 Large Language Models (LLM):**  
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-FF6347?style=flat&logo=deepmind&logoColor=white" height="40"/>
-</p>
-
----
+- 🤗 **Large Language Models (LLM):** Generative AI, Reinforcement Learning  
 
 #### ⚙️ **ML & Business Tools:**
-
-**🔧 ML Frameworks:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Gymnasium-32CD32?style=flat&logo=openai&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" height="40"/>
-</p>
-
-**📊 Business Analytics:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=white" height="40"/>
-</p>
-
-**🚀 ML in Production:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/MLFlow-0194E2?style=flat&logo=mlflow&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/NannyML-00CED1?style=flat&logo=monitoring&logoColor=white" height="40"/>
-</p>
-
-
+- 🔧 **ML Frameworks:** Keras, PyTorch, Gymnasium, PySpark  
+- 📊 **Business Analytics:** Power BI  
+- 🚀 **ML in Production:** Git, DVC, MLFlow, NannyML  
 
 ---
 
