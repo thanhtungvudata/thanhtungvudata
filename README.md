@@ -53,6 +53,23 @@
 
 ---
 
+### 🎮 **Hobbies & Interests**
+
+<p align="center">
+  <!-- Manchester United -->
+  <a href="https://www.manutd.com/" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg" alt="Manchester United" height="40" width="40" />
+  </a>
+  <span> Big fan of <strong>Manchester United</strong>! ❤️⚽</span>
+</p>
+
+<p align="center">
+  <span> Playing <strong>EA SPORTS FC 25</strong> on PlayStation 5 </span>
+</p>
+
+
+---
+
 ### 💬 **Let's Connect!**
 
 <p align="center">
@@ -72,8 +89,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
-
-
 
 ---
 
