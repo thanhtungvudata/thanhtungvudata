@@ -16,60 +16,76 @@
 
 ### 🚀 **Tech Stack**
 
+---
+
 #### 🟢 **Excellent:**
 
-- 🧠 **Classical ML/Predictive Modelling:**  
-  <img src="https://img.shields.io/badge/XGBoost-FF9900?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-00BFFF?style=for-the-badge&logo=lightgbm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SVM-0071C5?style=for-the-badge&logo=algolia&logoColor=white" />
+**🧠 Classical ML/Predictive Modelling:**
+<p align="left">
+  <img src="https://img.shields.io/badge/XGBoost-FF9900?style=flat&logo=xgboost&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/LightGBM-00BFFF?style=flat&logo=lightgbm&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/SVM-0071C5?style=flat&logo=algolia&logoColor=white" height="40"/>
+</p>
 
-- 🤖 **Deep Learning:**  
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Federated_Learning-0080FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
+**🤖 Deep Learning:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" height="40"/>
+</p>
 
-- 📝 **Optimization:**  
-  <img src="https://img.shields.io/badge/Optimization-6A5ACD?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Constrained_Problems-4682B4?style=for-the-badge&logo=matrix&logoColor=white" />
+**📝 Optimization:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/CVX-FF4500?style=flat&logo=mathworks&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Mosek-2E8B57?style=flat&logo=matrix&logoColor=white" height="40"/>
+</p>
 
-- 🐍 **Programming:**  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-FF5722?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matlab-EF8B00?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-- ⚙️ **Optimization Tools:**  
-  <img src="https://img.shields.io/badge/CVX-FF4500?style=for-the-badge&logo=matrix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mosek-2E8B57?style=for-the-badge&logo=mathworks&logoColor=white" />
+**🐍 Programming:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Matplotlib-FF5722?style=flat&logo=plotly&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Matlab-EF8B00?style=flat&logo=mathworks&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="40"/>
+</p>
 
 ---
 
 #### 🟡 **Familiar:**
 
-- 🤗 **Large Language Models (LLM):**  
-  <img src="https://img.shields.io/badge/Generative_AI-FF69B4?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-FF6347?style=for-the-badge&logo=deepmind&logoColor=white" />
+**🤗 Large Language Models (LLM):**  
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-FF6347?style=flat&logo=deepmind&logoColor=white" height="40"/>
+</p>
 
 ---
 
 #### ⚙️ **ML & Business Tools:**
 
-- 🔧 **ML Frameworks:**  
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gymnasium-32CD32?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+**🔧 ML Frameworks:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Gymnasium-32CD32?style=flat&logo=openai&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" height="40"/>
+</p>
 
-- 📊 **Business Analytics:**  
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
+**📊 Business Analytics:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=white" height="40"/>
+</p>
 
-- 🚀 **ML in Production:**  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NannyML-00CED1?style=for-the-badge&logo=monitoring&logoColor=white" />
+**🚀 ML in Production:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/MLFlow-0194E2?style=flat&logo=mlflow&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/NannyML-00CED1?style=flat&logo=monitoring&logoColor=white" height="40"/>
+</p>
+
 
 
 ---
