@@ -25,8 +25,8 @@
 
 #### 🟡 **Familiar:**
 - 🤗 **Large Language Models (LLM):** Generative AI, Reinforcement Learning  
-- 🔧 **ML Frameworks:** Keras, PyTorch, Gymnasium, PySpark   
-- 🚀 **ML in Production:** Git, DVC, MLFlow, NannyML
+- 🔧 **ML/LLM Frameworks:** Keras, PyTorch, Gymnasium, PySpark, LangChain
+- 🚀 **ML in Production:** Git, ChromaDB, DVC, MLFlow, NannyML
 - 📊 **Business Analytics:** Power BI 
 
 ---
