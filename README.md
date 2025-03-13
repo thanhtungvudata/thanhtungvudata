@@ -90,4 +90,4 @@
 
 ---
 
-**Thanks for visiting my profile!** 😊
+**Thanks for visiting my GitHub profile!** 😊
