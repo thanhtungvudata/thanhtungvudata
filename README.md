@@ -16,30 +16,27 @@
 
 ### 🚀 **Tech Stack**
 
-#### 🟢 **Excellent:**
+#### 🟢 **Expertise:**
+- 🤖 **Deep Learning:** DNN, CNN, Federated Learning, Reinforcement Learning
+- 🤗 **Generative AI**: Large Language Models (LLM), Retrieval‑Augmented Generation (RAG)
 - 🧠 **Classical ML/Predictive Modelling:** Linear/Logistic Regression, XGBoost, LightGBM, KNN, SVM  
-- 🤖 **Deep Learning:** DNN, CNN, Federated Learning  
 - 📝 **Optimization:** Constrained mixed-integer, nonconvex, and stochastic problems  
-- 🐍 **Programming:** Python (Pandas, Numpy, Scikit-Learn, Matplotlib), Matlab, SQL  
-- ⚙️ **Optimization Tools:** CVX, Mosek  
 
-#### 🟡 **Familiar:**
-- 🤗 **Large Language Models (LLM):** Generative AI, Reinforcement Learning  
+#### 🟡 **Coding:**
+- 🐍 Python, Matlab, SQL  
+
+#### 🟡 **Tools:**
 - 🔧 **ML/LLM Frameworks:** Keras, PyTorch, Gymnasium, PySpark, LangChain
-- 🚀 **ML in Production:** Git, ChromaDB, DVC, MLFlow, NannyML
+- **Data Engineer**: PySpark
+- ⚙️ **Optimization:** CVX, Mosek  
+- 🚀 Git, LangChain, ChromaDB, Streamlit, DVC, MLFlow, NannyML
 - 📊 **Business Analytics:** Power BI 
 
 ---
 
 ### 🏆 **Achievements**
 - 🏅 **Strong Track Record:** >800 citations, h‐index of 15 ([List of papers](https://scholar.google.com/citations?hl=en&user=Yr2ixYEAAAAJ&view_op=list_works&sortby=pubdate)), 20 journal articles in top international journals, 20 conference papers (2 invited), 1 Elsevier book chapter, and 2 patents with Ericsson (a global Telecom leader).  
-- 🥇 **Awards:**  
-  - Best Poster Award, AMSI Optimise Conference 2018  
-  - International Postgraduate Research Scholarship ($120,000): Direct entry to a PhD program at the University of Newcastle, 2017  
-  - Mitsubishi Scholarship for Excellent Students, 2011  
-  - Student Leader Award, 2010  
-  - Third Prize, National Physics Competition for High-School Students, 2008  
-  - First Prize, City Physics Competition for High-School Students, 2007  
+- 🥇 **International Postgraduate Research Scholarship** ($120,000): Direct entry to a PhD program at the University of Newcastle in 2017.
 
 ---
 
