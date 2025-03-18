@@ -24,9 +24,9 @@
 #### 🟡 **Coding:**
 - 🐍 Python, Matlab, SQL  
 
-#### 🟡 **Tools:**
+#### 🔵 **Tools:**
 - 🔧 **ML/LLM Frameworks:** Keras, PyTorch, Gymnasium, PySpark, LangChain
-- **Data Engineer**: PySpark
+- 🛠️ **Data Engineer**: PySpark
 - ⚙️ **Optimization:** CVX, Mosek  
 - 🚀 Git, LangChain, ChromaDB, Streamlit, DVC, MLFlow, NannyML
 - 📊 **Business Analytics:** Power BI 
