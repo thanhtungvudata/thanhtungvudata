@@ -6,11 +6,10 @@
 ---
 
 ### 🌟 **About Me**
-- 🎓 PhD in Wireless Communications, specializing in Applied Optimization and ML
-- 🔬 Researching ultra-reliable low-latency wide-area networks and 6G
-- 💻 Passionate about machine learning, data science, and solving real-world problems
+- 🎓 PhD with 4+ years of extensive experience in AI, ML, optimization, mathematics, statistics, and application development.
+- 💻 Passionate about building AI applications to deliver business values.
 - 🌱 Currently building some exciting side data science projects (Check my repos below)
-- 💬 Ask me about **Optimization, Predictive Modelling, and Wireless Technologies** 
+- 💬 Ask me about **Optimization, Predictive Modelling, and Generative AI** 
 
 ---
 
