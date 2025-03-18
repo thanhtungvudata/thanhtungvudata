@@ -25,10 +25,10 @@
 - 🐍 Python, Matlab, SQL  
 
 #### 🔵 **Tools:**
-- 🔧 **ML/LLM Frameworks:** Keras, PyTorch, Gymnasium, PySpark, LangChain
+- 🔧 **ML/LLM Frameworks:** Keras, PyTorch, Gymnasium, LangChain
 - 🛠️ **Data Engineer**: PySpark
 - ⚙️ **Optimization:** CVX, Mosek  
-- 🚀 Git, LangChain, ChromaDB, Streamlit, DVC, MLFlow, NannyML
+- 🚀 Git, ChromaDB, Streamlit, DVC, MLFlow, NannyML
 - 📊 **Business Analytics:** Power BI 
 
 ---
