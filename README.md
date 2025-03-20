@@ -27,7 +27,7 @@
 #### 🔵 **Tools:**
 - 🔧 **ML/LLM Frameworks:** Keras, PyTorch, LangChain, Gymnasium
 - 🛠️ **Data Engineer**: PySpark
-- ⚙️ **Optimization:** CVX, Mosek  
+- ⚙️ **Optimization:** CVX, Mosek, Gurobi
 - 🚀 Git, ChromaDB, Streamlit, DVC, MLFlow, NannyML
 - 📊 **Business Analytics:** Power BI 
 
