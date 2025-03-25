@@ -9,7 +9,7 @@
 - 🎓 PhD with 4+ years of extensive experience in AI, ML, optimization, mathematics, statistics, and application development.
 - 💻 Passionate about building AI applications to deliver business values.
 - 🌱 Currently building some exciting side data science projects (Check my repos below).
-- 💬 Ask me about **Generative AI, Predictive Modelling, and Optimization**.
+- 💬 Ask me about **Generative AI, Predictive Modelling, and Optimization**. 
 
 ---
 
