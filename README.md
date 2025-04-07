@@ -15,7 +15,7 @@
 
 ### 🚀 **Tech Stack**
 
-#### 🟢 **Expertise:**
+#### 🟢 **Expertise:** 
 - 🤖 **Deep Learning:** DNN, CNN, Federated Learning, Reinforcement Learning
 - 🤗 **Generative AI**: Large Language Models (LLM), Retrieval‑Augmented Generation (RAG)
 - 🧠 **Classical ML/Predictive Modelling:** Linear/Logistic Regression, XGBoost, LightGBM, KNN, SVM  
