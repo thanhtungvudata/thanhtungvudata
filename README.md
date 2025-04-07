@@ -27,7 +27,7 @@
 - 📦 Optimization Tools: CVXPY, MOSEK, Gurobi, CPLEX
 - 📊 Visualization: matplotlib, seaborn, plotly, Streamlit
 - ☁️ Cloud Tech: AWS (SageMaker, S3, EC2, RDS), Hugging Face Spaces
-- 🧰 Dev & ML Tools: Git, ChromaDB, Snowflake, DVC, MLflow, NannyML
+- 🧰 ML/MLOps Tools: Git, ChromaDB, Snowflake, DVC, MLflow, NannyML
 - 🧩 Soft Skills: Time Management, Teamwork, Conflict Resolution, Problem Solving, Documentation, Engaging Presentation
 
 ---
