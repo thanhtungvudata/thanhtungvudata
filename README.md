@@ -18,21 +18,17 @@
 
 ### 🚀 **Tech Stack**
 
-#### 🟢 **Expertise:** 
-- 🤖 **Deep Learning:** DNN, CNN, Federated Learning, Reinforcement Learning
-- 🤗 **Generative AI**: Large Language Models (LLM), Retrieval‑Augmented Generation (RAG)
-- 🧠 **Classical ML/Predictive Modelling:** Linear/Logistic Regression, XGBoost, LightGBM, KNN, SVM  
-- 📝 **Optimization:** Constrained mixed-integer, nonconvex, and stochastic problems   
-
-#### 🟡 **Coding:**
-- 🐍 Python, Matlab, SQL  
-
-#### 🔵 **Tools:**
-- 🔧 **ML/LLM Frameworks:** Keras, PyTorch, LangChain, Gymnasium
-- 🛠️ **Data Engineer**: PySpark
-- ⚙️ **Optimization:** CVX, Mosek, Gurobi
-- 🚀 Git, ChromaDB, Streamlit, DVC, MLFlow, NannyML
-- 📊 **Business Analytics:** Power BI 
+- 👥 Leadership: Team‑building, Mentoring
+- 💻 Programming Languages: Python, SQL, MATLAB
+- 🧠 Data Science & AI: Deep Learning (DNN, CNN), Federated Learning, Reinforcement Learning
+- 🤖 Generative AI: Large Language Models (LLM), Retrieval‑Augmented Generation (RAG)
+- 📈 Classical ML / Predictive Modelling: Linear/Logistic Regression, XGBoost, LightGBM, KNN, SVM
+- ⚙️ Optimization: Methods for constrained mixed-integer, nonconvex, and stochastic problems
+- 📦 Optimization Tools: CVXPY, MOSEK, Gurobi, CPLEX
+- 📊 Visualization: matplotlib, seaborn, plotly, Streamlit
+- ☁️ Cloud Tech: AWS (SageMaker, S3, EC2, RDS), Hugging Face Spaces
+- 🧰 Dev & ML Tools: Git, ChromaDB, Snowflake, DVC, MLflow, NannyML
+- 🧩 Soft Skills: Time Management, Teamwork, Conflict Resolution, Problem Solving, Documentation, Engaging Presentation
 
 ---
 
