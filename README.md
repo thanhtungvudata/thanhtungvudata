@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 **Tech Stack**
+### 🚀 **Skills**
 
 - 👥 Leadership: Team‑building, Mentoring
 - 💻 Programming Languages: Python, SQL, MATLAB
