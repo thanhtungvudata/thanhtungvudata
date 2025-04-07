@@ -4,7 +4,7 @@
 </p>
  
 ---
-
+ 
 ### 🌟 **About Me**
 - 🎓 PhD with 4+ years of extensive experience in AI, ML, optimization, mathematics, statistics, and application development. 
 - 💻 Passionate about building AI applications to deliver business values.
