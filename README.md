@@ -11,7 +11,7 @@
 - 🤝 Collaborative Strength: Adaptive and effective in cross‑functional, multicultural team environments to achieve shared goals.
 - 🌱 Team Building Experience: Mentored 5 PhD candidates from technical growth to applying research in real‑world solutions.
 - 📚 Research Excellence: PhD in Applied Machine Learning and Optimization, with a strong publication record.
-- 🌏 Received Australian Global Talent Permanent Residency.
+- 🌏 Received Australian Global Talent Permanent Residency. 
 - 🏆 Received more than AU$120K worth of cash for academic scholarships and awards.
 
 Detailed information on my projects and experience is in my [CV](https://drive.google.com/file/d/1vzA-NJ_ti7fj9KMFjTDe1bnPgtziSuad/view). 
