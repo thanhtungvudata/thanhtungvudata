@@ -6,7 +6,7 @@
 ---
  
 ### 🌟 **About Me** 
-- ✅ Versatile Skill Set: 4+ years in Applied Machine Learning, Generative AI, and Optimization. 
+- ✅ Versatile Skill Set: 4+ years in Applied Machine Learning, Generative AI, and Optimization.  
 - 🧠 Analytical Excellence: Highly skilled in solving complex problems scientifically and engineeringly. 
 - 🤝 Collaborative Strength: Adaptive and effective in cross‑functional, multicultural team environments to achieve shared goals.
 - 🌱 Team Building Experience: Mentored 5 PhD candidates from technical growth to applying research in real‑world solutions.
