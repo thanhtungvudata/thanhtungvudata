@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Thanh Tung Vu</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+6G+Researcher;Passionate+about+AI+%26+Data+Science;Always+learning+and+sharing+new+technologies" alt="Typing SVG" />
-</p>
+</p> 
  
 ---
  
