@@ -30,7 +30,7 @@ Detailed information on my projects and experience is in my [CV](https://drive.g
 - 📊 Visualization: matplotlib, seaborn, plotly, Streamlit
 - ☁️ Cloud Tech: AWS (SageMaker, S3, EC2, RDS), Hugging Face Spaces
 - 🧰 ML/MLOps Tools: Git, ChromaDB, Snowflake, DVC, MLflow, NannyML
-- 🧩 Soft Skills: Time Management, Teamwork, Conflict Resolution, Problem Solving, Documentation, Engaging Presentation
+- 🧩 Soft Skills: Time Management, Teamwork, Conflict Resolution, Problem Solving, Documentation, Engaging Presentation 
 
 ---
 
