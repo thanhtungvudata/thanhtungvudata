@@ -35,7 +35,7 @@ Detailed information on my projects and experience is in my [CV](https://drive.g
 ---
 
 ### 🏆 **Academic Achievements**
-- 🏆 ARC Discovery Early Career Researcher Award: 2026–2029, AU$529,672
+- 🏆 **ARC Discovery Early Career Researcher Award**: 2026–2029, AU$529,672
 - 🏅 **Strong Publication Record:** >800 citations, h‐index of 15 ([List of papers](https://scholar.google.com/citations?hl=en&user=Yr2ixYEAAAAJ&view_op=list_works&sortby=pubdate)), 20 journal articles in top international journals, 20 conference papers (2 invited), 1 Elsevier book chapter, and 2 patents with Ericsson (a global Telecom leader).  
 - 🥇 **International Postgraduate Research Scholarship**: Received full 3.5‐year PhD scholarship from the University of Newcastle in 2017, AU$120K worth of cash.
 - 🏆 Best Poster Award: Received the prestigious Best Poster Award from the Australian Mathematical Sciences Institute (AMSI) Optimise Conference for excellent research ideas and solutions, AU$500 worth of cash.
