@@ -15,7 +15,7 @@ I solve complex problems at the intersection of **wireless communications** and 
 
 - 🎓 **PhD** in Applied Machine Learning & Optimization
 - 📊 **h-index: 15** | **800+ citations** | **20+ journal papers** | **2 patents** (Ericsson)
-- 🏆 **ARC DECRA Fellow** (2026-2029) — AU$529,672 competitive grant
+- 🏆 **ARC DECRA** (2026-2029) — AU$529,672 competitive grant
 - 🌏 **Australian Global Talent** visa holder
 - 💰 **AU$670K+** in scholarships and awards
 
