@@ -1,92 +1,70 @@
-<h1 align="center">Hi there 👋, I'm Thanh Tung Vu</h1>
+# Hi, I'm Thanh Tung Vu 👋
+
+[![Website](https://img.shields.io/badge/Website-thanhtungvu.com-blue?style=flat-square&logo=google-chrome)](https://www.thanhtungvu.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thanhtungvudata/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=YOUR_ID)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=x)](https://twitter.com/thanhtungvudata)
+
+**Data Scientist | 6G Researcher | AI/ML Engineer**
+
+I solve complex problems at the intersection of **wireless communications** and **artificial intelligence**. Currently researching next-generation wireless systems and building production ML solutions.
+
+---
+
+## 🔬 Research & Impact
+
+- 🎓 **PhD** in Applied Machine Learning & Optimization
+- 📊 **h-index: 15** | **800+ citations** | **20+ journal papers** | **2 patents** (Ericsson)
+- 🏆 **ARC DECRA Fellow** (2026-2029) — AU$529,672 competitive grant
+- 🌏 **Australian Global Talent** visa holder
+- 💰 **AU$670K+** in scholarships and awards
+
+## 🚀 Featured Work
+
+**[Wireless Federated Learning Framework](link-to-paper)**  
+First comprehensive framework for cell-free massive MIMO with federated learning. **220+ citations** | Top-accessed on IEEE Xplore.
+
+**Production ML Pipelines**  
+- Built document extraction pipeline (AWS Textract + Bedrock): **75% cost reduction**, **4x capacity**
+- RAG-based content generation system: **80-90% labor reduction**, **5x faster delivery**
+
+## 💻 Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+**ML/AI**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
+
+**Cloud & Tools**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Optimization**  
+CVXPY • Gurobi • MOSEK
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+6G+Researcher;Passionate+about+AI+%26+Data+Science;Always+learning+and+sharing+new+technologies" alt="Typing SVG" />
-</p> 
- 
----
- 
-### 🌟 **About Me** 
-- ✅ Versatile Skill Set: 4+ years in Applied Machine Learning, Generative AI, and Optimization.   
-- 🧠 Analytical Excellence: Highly skilled in solving complex problems scientifically and engineeringly. 
-- 🤝 Collaborative Strength: Adaptive and effective in cross‑functional, multicultural team environments to achieve shared goals.
-- 🌱 Team Building Experience: Mentored 5 PhD candidates from technical growth to applying research in real‑world solutions.
-- 📚 Research Excellence: PhD in Applied Machine Learning and Optimization, with a strong publication record.
-- 🌏 Received Australian Global Talent Permanent Residency.  
-- 🏆 Received more than AU$120K worth of cash for academic scholarships and awards.
-
-Detailed information on my projects and experience is in my [CV](https://drive.google.com/file/d/1vzA-NJ_ti7fj9KMFjTDe1bnPgtziSuad/view). 
-
----
-
-### 🚀 **Skills**
-
-- 👥 Leadership: Team‑building, Mentoring
-- 💻 Programming Languages: Python, SQL, MATLAB
-- 🧠 Data Science & AI: Deep Learning (DNN, CNN), Federated Learning, Reinforcement Learning
-- 🤖 Generative AI: Large Language Models (LLM), Retrieval‑Augmented Generation (RAG)
-- 📈 Classical ML / Predictive Modelling: Linear/Logistic Regression, XGBoost, LightGBM, KNN, SVM
-- ⚙️ Optimization: Methods for constrained mixed-integer, nonconvex, and stochastic problems
-- 📦 Optimization Tools: CVXPY, MOSEK, Gurobi, CPLEX
-- 📊 Visualization: matplotlib, seaborn, plotly, Streamlit
-- ☁️ Cloud Tech: AWS (SageMaker, S3, EC2, RDS), Hugging Face Spaces
-- 🧰 ML/MLOps Tools: Git, ChromaDB, Snowflake, DVC, MLflow, NannyML
-- 🧩 Soft Skills: Time Management, Teamwork, Conflict Resolution, Problem Solving, Documentation, Engaging Presentation 
-
----
-
-### 🏆 **Academic Achievements**
-- 🏆 **ARC Discovery Early Career Researcher Award**: 2026–2029, AU$529,672
-- 🏅 **Strong Publication Record:** >800 citations, h‐index of 15 ([List of papers](https://scholar.google.com/citations?hl=en&user=Yr2ixYEAAAAJ&view_op=list_works&sortby=pubdate)), 20 journal articles in top international journals, 20 conference papers (2 invited), 1 Elsevier book chapter, and 2 patents with Ericsson (a global Telecom leader).  
-- 🥇 **International Postgraduate Research Scholarship**: Received full 3.5‐year PhD scholarship from the University of Newcastle in 2017, AU$120K worth of cash.
-- 🏆 Best Poster Award: Received the prestigious Best Poster Award from the Australian Mathematical Sciences Institute (AMSI) Optimise Conference for excellent research ideas and solutions, AU$500 worth of cash.
-
----
-
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhtungvudata&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtungvudata&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thanhtungvudata&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
 
----
+## 🤝 Let's Connect
 
-### 🎮 **Hobbies & Interests**
+I'm open to **research collaborations**, **consulting**, and **mentoring** in wireless communications and AI/ML.
 
-<p align="center">
-  <!-- Manchester United -->
-  <a href="https://www.manutd.com/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg" alt="Manchester United" height="40" width="40" />
-  </a>
-  <span> Big fan of <strong>Manchester United</strong>! ❤️⚽</span>
-</p>
-
-<p align="center">
-  <span> Playing <strong>EA SPORTS FC 25</strong> on PlayStation 5 </span>
-</p>
-
+- 🌐 [thanhtungvu.com](https://www.thanhtungvu.com/)
+- 📧 [Email me](mailto:your-email@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thanhtungvudata/)
 
 ---
 
-### 💬 **Let's Connect!** 
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/thanhtungvudata/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  
-  <a href="mailto:thanhtungvudata@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="30" width="40" />
-  </a>
-  
-  <a href="https://x.com/thanhtungvudata" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.instagram.com/thanhtungvudata/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+  <i>⚽ Manchester United fan | 🎮 EA FC 25 on PS5</i>
 </p>
-
----
-
-**Thanks for visiting my GitHub profile!** 😊
