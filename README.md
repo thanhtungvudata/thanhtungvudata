@@ -5,7 +5,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=YOUR_ID)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=x)](https://twitter.com/thanhtungvudata)
 
-**Data Scientist | 6G Researcher | AI/ML Engineer**
+**Wireless & AI Researcher | Consultant | Educator | Mentor**
 
 I solve complex problems at the intersection of **wireless communications** and **artificial intelligence**. Currently researching next-generation wireless systems and building production ML solutions.
 
