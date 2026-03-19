@@ -60,7 +60,7 @@ CVXPY • Gurobi • MOSEK
 I'm open to **research collaborations**, **consulting**, and **mentoring** in wireless communications and AI/ML.
 
 - 🌐 [thanhtungvu.com](https://www.thanhtungvu.com/)
-- 📧 [Email me](mailto:your-email@gmail.com)
+- 📧 [Email me](mailto:tungvu.telecom@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/thanhtungvudata/)
 
 ---
