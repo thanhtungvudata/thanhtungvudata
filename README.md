@@ -3,7 +3,6 @@
 [![Website](https://img.shields.io/badge/Website-thanhtungvu.com-blue?style=flat-square&logo=google-chrome)](https://www.thanhtungvu.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thanhtungvudata/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=YOUR_ID)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=x)](https://twitter.com/thanhtungvudata)
 
 **Lecturer in Computer Networking, Western Sydney University · ARC DECRA Fellow**
 
