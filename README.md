@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thanhtungvudata/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=YOUR_ID)
 
-**Lecturer in Computer Networking, Western Sydney University · ARC DECRA Fellow**
+**Lecturer at Western Sydney University | ARC DECRA Fellow**
 
 I work on energy-efficient and ultra-reliable wireless networks for 6G, combining communication theory, optimisation, and machine learning.
 
