@@ -10,6 +10,8 @@ I work on energy-efficient and ultra-reliable wireless networks for 6G, combinin
 
 Current directions: cell-free massive MIMO, millimetre-wave networks, wireless federated learning, and AI-based resource allocation, with applications in smart cities, healthcare, agriculture, and Australia's remote regions.
 
+I welcome enquiries from prospective Master of Research/PhD students, and from industry partners working on wireless connectivity, networking, and applied AI.
+
 ---
 
 ## Research
@@ -19,6 +21,3 @@ Current directions: cell-free massive MIMO, millimetre-wave networks, wireless f
 - 22 journal papers, 20 conference papers, 1 book chapter
 - Co-inventor on two Ericsson patent applications in dynamic TDD interference mitigation
 
-## Supervision
-
-I welcome enquiries from prospective PhD and Master of Research students interested in optimisation and AI for wireless communications and networking, as well as in federated learning.
