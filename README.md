@@ -21,4 +21,4 @@ Current directions: cell-free massive MIMO, millimetre-wave networks, wireless f
 
 ## Supervision
 
-I welcome enquiries from prospective Master of Research/PhD students, and from industry partners working on wireless connectivity, networking, and applied AI.
+I welcome enquiries from prospective PhD and Master of Research students interested in optimisation and AI for wireless communications and networking, as well as in federated learning.
